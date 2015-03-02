@@ -3,7 +3,7 @@ int main()
 {
 
 printf("Git learning");
-pritf("yay");
+pritf("lol");
 printf("Git branch learning");
 return 0;
 }
